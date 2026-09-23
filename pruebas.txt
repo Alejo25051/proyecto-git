@@ -1,1 +1,2 @@
 Prueba 1: comprobar que la rama rama-pruebas funciona de forma independiente.
+Prueba 2: comprobar que los commits de esta rama no afectan a master.
